@@ -1,5 +1,9 @@
 # eth-payload-analyzer — Rust + Python prototype
 
+<img width="600" height="800" alt="Image" src="https://github.com/user-attachments/assets/09da77da-99f9-4d10-86fd-ba4680c3216f" />
+
+-----
+
 A compact prototype that fetches an Execution Layer (EL) Engine API payload, converts it into a simplified SSZ-like representation, and compares the EL JSON payload against the SSZ-derived root to surface inconsistencies.
 
 ## Running on the Terminal:
